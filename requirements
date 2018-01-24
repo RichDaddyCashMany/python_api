@@ -1,0 +1,4 @@
+Flask == 0.12.2
+pymysql == 0.8.0
+flask_restful == 0.3.6
+flask_sqlalchemy == 2.3
