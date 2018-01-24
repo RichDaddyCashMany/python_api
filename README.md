@@ -25,3 +25,7 @@ http://localhost:5000/user/reg?username=abc&password=123456
 http://localhost:5000/user/login?username= abc&password=123456
 ~~~
 
+# Multi-site deployment
+
+[https://www.jianshu.com/p/30f422539993](https://www.jianshu.com/p/30f422539993)
+
